@@ -1,0 +1,3 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10798</md:content-id>  <md:title>Z-TRANSFORM</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>e42cc54e-b11c-4c94-9041-ae47b93edfba</md:uuid>
+<md:slug>z-transform</md:slug>
+</metadata>  <col:content>          <col:module document="m28770"/>                    </col:content></col:collection>
